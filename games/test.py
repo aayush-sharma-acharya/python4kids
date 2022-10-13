@@ -1,4 +1,4 @@
-print('git is fun ')
+print('git is fun . ')
 
 
 
